@@ -1,5 +1,5 @@
 # spotifyaccgen
-Spotify Account Generator for Free Accounts, version 1.01
+Spotify Account Generator for Free Accounts, version 1.02
 
 For windows or MacOSX.
 
