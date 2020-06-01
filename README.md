@@ -12,3 +12,5 @@ I will not be providing updates or support.
 Link: https://anonfile.com/h2Req626oa/SpotifyBOT-Account_Generator_-_1.0.2_zip
 
 Link (Backup): https://www112.zippyshare.com/v/D5V040hp/file.html
+
+Donations: 13nBLdkL5uPmowcPWNGrR4vBef215zBK6X (BTC)
